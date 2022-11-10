@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/sbasestarter/bizinters v0.0.0-20221031053026-b14cae414ce8
+	github.com/sbasestarter/bizinters v0.0.0-20221110051034-9de31177882c
 	github.com/sgostarter/libeasygo v0.1.33
 )
 
